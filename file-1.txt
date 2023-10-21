@@ -1,1 +1,3 @@
 some change in file-1
+
+some conflicting change in main branch
